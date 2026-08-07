@@ -1,0 +1,3 @@
+[submodule "rai-pal"]
+	path = rai-pal
+	url = https://github.com/Raicuparta/rai-pal.git
