@@ -1,3 +1,6 @@
 [submodule "rai-pal"]
 	path = rai-pal
 	url = https://github.com/Raicuparta/rai-pal.git
+[submodule "uuvr"]
+	path = uuvr
+	url = https://github.com/Raicuparta/uuvr.git
