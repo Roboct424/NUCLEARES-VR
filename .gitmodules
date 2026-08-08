@@ -4,6 +4,6 @@
 [submodule "uuvr"]
 	path = uuvr
 	url = https://github.com/Raicuparta/uuvr.git
-[submodule "BeplnEx"]
-	path = BeplnEx
-	url = https://github.com/Raicuparta/beplnex.git
+[submodule "BepInEx"]
+	path = BepInEx
+	url = https://github.com/BepInEx/BepInEx.git
