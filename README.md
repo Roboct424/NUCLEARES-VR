@@ -22,5 +22,4 @@
 15. Запустите игру кнопкой `Run Game Executable`
 
 Поддержать автора:
-
-[![Поддержать через ЮMoney](https://img.shields.io/badge/Поддержать-ЮMoney-8B3FFD?style=for-the-badge&logo=yoomoney&logoColor=white)](https://yoomoney.ru/fundraise/1JHB9MVI77E.260808)
+[![Поддержать через ЮMoney](https://img.shields.io/badge/Поддержать-ЮMoney-8B3FFD?style=for-the-badge&logo=yoomoney&logoColor=white)](https://yoomoney.ru/quickpay/fundraise/button?billNumber=1JHB9MVI77E.260808)
